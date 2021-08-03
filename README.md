@@ -25,7 +25,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
-  <a href="#">
+  <a href="https://codepen.io/pedrohsfontoura">
     <img src="https://img.shields.io/badge/codepen-23407953?style=for-the-badge&logo=codepen&logoColor=white">
   </a>  
   <a href="#">
