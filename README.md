@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://beacons.page/pedruwu_">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohsfontoura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsfontoura&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohsfontoura&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsfontoura&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
   
 <div><br>
