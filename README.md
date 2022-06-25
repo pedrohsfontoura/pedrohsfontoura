@@ -5,8 +5,8 @@
 
 <div>
 <a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohsfontoura&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsfontoura&layout=compact&langs_count=7&theme=ayu-mirage"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lunafeyli&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunafeyli&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
   
 <div><br>
@@ -23,13 +23,13 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://instagram.com/pedruwu_">
+  <a href="https://instagram.com/fey.lunnna">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
   <a href="https://codepen.io/pedrohsfontoura">
     <img src="https://img.shields.io/badge/codepen-23407953?style=for-the-badge&logo=codepen&logoColor=white">
   </a>  
-  <a href="https://twitter.com/pedruwu_">
+  <a href="https://twitter.com/feylunnna">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   
