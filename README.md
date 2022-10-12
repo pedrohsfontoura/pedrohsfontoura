@@ -23,5 +23,5 @@
     <img src="https://img.shields.io/badge/codepen-23407953?style=for-the-badge&logo=codepen&logoColor=white">
   </a>  -->
   
-  ![Snake animation](https://github.com/pedrohsfontoura/pedrohsfontoura/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lunafeyli/lunafeyli/blob/output/github-contribution-grid-snake.svg)
 </div>
