@@ -1,4 +1,4 @@
-### Olá!!! Me chamo Pedro Fontoura.
+### Olá!!! Me chamo Luna Santos.
 #### Seja bem vindo ao meu perfil.
 
 <br>
@@ -14,7 +14,6 @@
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="right" height="172" width="172" src=".github/octocat.gif">
 </div>
 
   ---
